@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="Zhu Jihua" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
+    <option name="confirmBeforeUploading" value="false" />
+    <serverData>
+      <paths name="Li Zhongyu">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/media/chenyu/pcn_dcp" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Li Zhongyu (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/media/chenyu/pcn_dcp" local="$PROJECT_DIR$" web="" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Wei Xing">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/pcn_idam_verse" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Zhu">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/pcn_idam_verse" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Zhu Jihua">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/pcn_idam_verse" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Zhu Jihua (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/pcn_idam_verse" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Zhu Jihua (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/pcn_idam_verse" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Zhu Jihua (4)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/pcn_idam_verse" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

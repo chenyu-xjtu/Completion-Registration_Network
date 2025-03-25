@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="202.117.21.80" id="2d14f115-750f-4535-8a9a-a02196c19851" port="1072" customName="Wei Xing" nameFormat="CUSTOM" username="lixiang" useOpenSSHConfig="false">
+        <option name="customName" value="Wei Xing" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>

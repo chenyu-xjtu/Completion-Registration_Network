@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="351e1ef7-f1fa-4a27-8c4d-5ff371c90e23" name="Wei Xing">
+        <fileTransfer rootFolder="/home/lixiang" accessType="SFTP" host="202.117.21.84" port="23578" sshConfigId="362be322-8749-4754-bd87-323d3ed612c1" sshConfig="Zhu Jihua" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,7 +1,5 @@
 # CRNet: Completion-Registration Network for Partial Point Cloud Registration
 
-![CRNet Architecture](assets/crnet_arch.png)
-
 ## 📖 Introduction
 CRNet is a deep learning framework for partial point cloud registration by first completing missing regions and then performing registration. This repository contains the implementation of our paper *"Research and implementation of point cloud registration method based on partial point cloud completion"*.
 
